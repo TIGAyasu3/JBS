@@ -1,2 +1,9 @@
-# JBS
-JBS - Japan Bridge Standards (日本就業支援機構) website
+# JBS — Japan Bridge Standards
+
+Static website for JBS (Japan Bridge Standards), operated by Studyo TIGA CO., LTD.
+
+- `index.html` — 日本語トップ
+- `en/index.html` — English home
+- `disclosure.html` — 情報開示
+
+Pure HTML/CSS, no build step. Published with GitHub Pages from the repository root.
